@@ -2,6 +2,7 @@ name: MiltonWorkshop
 favicon: null
 layout_spectrum: 0.24954289896413684
 typography_spectrum: 0.0940365050919354
+title: Milton Workshop
 cta:
   domain: null
   bucket: null
