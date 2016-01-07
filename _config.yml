@@ -1,6 +1,6 @@
 name: MiltonWorkshop
 favicon: null
-layout_spectrum: 0.24954289896413684
+layout_spectrum: 0.56662
 typography_spectrum: 0.0940365050919354
 title: Milton Workshop
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.18216966628096998
-  lightness: 0.6253792822826654
-  saturation: 0.36756345722824335
-  rhythmicContrast: 0.48333435342647135
+    - '#fc580c'
+    - '#fdca49'
+    - '#ffa927'
+    - '#f8872e'
+    - '#f2f2f2'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.625
+  rhythmicContrast: 1
 purpose: []
