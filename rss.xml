@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Milton Workshop]]></title>
+        <description><![CDATA[Milton Workshop]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Jan 2016 10:56:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dash Dance Party]]></title>
+            <description><![CDATA[<article><h1>Dash Dance Party</h1><p>Hello! Yupiyupi ok. Frog this is a dance party yes yes yes lah lah lah lah I O da bell core.  April 2015</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e6f5722f8c46aa3d3f227060e0cab48ebb2424d.jpg"></article>]]></description>
+            <link>undefineddash-dance-party/index.html</link>
+            <guid isPermaLink="false">cc762036-f625-4aa8-bcf6-7ec3c3baeec3</guid>
+            <pubDate>Wed, 20 Jan 2016 10:56:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
