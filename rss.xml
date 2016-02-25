@@ -4,11 +4,18 @@
         <description><![CDATA[Milton Workshop]]></description>
         <link>https://thegrid.ai/miltonworkshop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 14:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 14:22:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/miltonworkshop/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Volcano Eruption]]></title>
+            <description><![CDATA[<article><h1>Volcano Eruption</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c863d7d7a5b244b9bce12aa06247b7d8c6fc68ec.jpg"></article>]]></description>
+            <link>https://thegrid.ai/miltonworkshop/volcano-eruption/index.html</link>
+            <guid isPermaLink="false">72dce6ab-1c23-44ce-a0e9-7e4f7e369300</guid>
+            <pubDate>Thu, 25 Feb 2016 14:21:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Star Wars AAT]]></title>
-            <description><![CDATA[<article><h1>Star Wars AAT</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e645853-ec95-4400-a114-4866e3625b18.JPG"></article>]]></description>
+            <description><![CDATA[<article><h1>Star Wars AAT</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd7c122917eca1d053795dd7369de692201db3d5.jpg"></article>]]></description>
             <link>https://thegrid.ai/miltonworkshop/star-wars-aat/index.html</link>
             <guid isPermaLink="false">fa511cc9-23df-4236-bf76-ad853f84b382</guid>
             <pubDate>Thu, 25 Feb 2016 14:13:06 GMT</pubDate>
