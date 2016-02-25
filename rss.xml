@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Milton Workshop]]></title>
         <description><![CDATA[Milton Workshop]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/miltonworkshop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 05:35:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 14:05:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/miltonworkshop/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Electricity]]></title>
+            <description><![CDATA[<article><h1>Electricity</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c40560db-210f-4da7-aca8-49e36b1f0050.JPG"></article>]]></description>
+            <link>https://thegrid.ai/miltonworkshop/electricity/index.html</link>
+            <guid isPermaLink="false">19f366a0-41d6-4477-93af-95eb28857c8b</guid>
+            <pubDate>Thu, 25 Feb 2016 14:01:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello Muw]]></title>
-            <description><![CDATA[<article><h1>Hello Muw</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70e7ee50-0b02-411b-bce4-983b7f203b65.JPG"></article>]]></description>
-            <link>undefinedhello-muw/index.html</link>
+            <description><![CDATA[<article><h1>Hello Muw</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af6463f8ce37bb0f12d2daf67c1bcc66cfe2f585.jpg"></article>]]></description>
+            <link>https://thegrid.ai/miltonworkshop/hello-muw/index.html</link>
             <guid isPermaLink="false">45b0c059-b94b-44b3-a891-dad520e20f68</guid>
             <pubDate>Wed, 24 Feb 2016 05:35:07 GMT</pubDate>
         </item>
